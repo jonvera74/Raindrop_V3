@@ -1,0 +1,5 @@
+2022/11/03-09:44:07.471 45a4 Reusing MANIFEST C:/Users/bande/Documents/Unreal Projects/RainFallv3_0/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/11/03-10:33:49.420 2a20 Level-0 table #5: started
+2022/11/03-10:33:49.429 2a20 Level-0 table #5: 6795 bytes OK
+2022/11/03-10:33:49.432 2a20 Delete type=0 #3
+2022/11/03-10:33:49.433 2a20 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
