@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Admin/OneDrive/Documents/GitHub/Raindrop_V3/RainFallv3_0/Content/UI/Deni_UI/Widget_PauseMenu.uasset",
+				"C:/Users/Admin/OneDrive/Documents/GitHub/Raindrop_V3/RainFallv3_0/Content/UI/Deni_UI/Widget_Options.uasset"
+			]
+		}
+	]
+}
