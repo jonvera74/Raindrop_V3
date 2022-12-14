@@ -1,2 +1,6 @@
 
 *.log
+RainFallv3_0/DerivedDataCache
+*.dmp
+RainFallv3_0/Saved/Autosaves
+RainFallv3_0/Saved/Crashes
